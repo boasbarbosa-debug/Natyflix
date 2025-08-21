@@ -43,4 +43,6 @@ p{
     opacity: 1.0;
     border: 3px solid rgb(0, 0, 0);
 }
-.categoria h2
+.categoria h2{
+    color:rgb(rgb(40, 13, 239), rgb(217, 106, 202), rgb(182, 182, 252))
+}
